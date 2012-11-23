@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RobotSquirrelActivity!</string>
+    <string name="app_name">Robot Squirrel</string>
+    <string name="red">RobotSquirrel</string>
+    <string name="orange">RobotSquirrel</string>
+    <string name="lightning">LIGHTNING MODE!</string>
+    <string name="battery">TAP TO CHARGE!</string>
+    <string name="start">GO ON GREEN!</string>
+    <string name="stop">STOP ON RED!</string>
+    <string name="greatstart">GREAT START!</string>
+    <string name="greatstop">GREAT STOP!</string>
+     <string name="badstop">RED LIGHT!</string>
+     <string name="stopyellow">STOP ON YELLOW!</string>
+     <string name="threesecondsleft">3 SECONDS LEFT!</string>
+    <string name="nut">NUT!</string>
+     
+
+     
+     <string name="tip1">Tap here to flip through these faster.</string>
+     <string name="tip0">Swipe sideways to shoot, up or down to jump.</string>
+     <string name="tip2">Stop when the sun is fully yellow for a boost.</string>
+     <string name="tip3">Go as soon as the sun turns green for a boost.</string>
+     <string name="tip4">Enemies don\'t hurt when you\'re stopped.</string>
+     <string name="tip5">Storm clouds can be very helpful...</string>
+     <string name="tip6">Nuts give you a boost and more time.</string>
+     <string name="tiplandmark">You might pass </string>
+     
+     <string name="tiphighscore">Current high score: </string>
+     
+     <string name="newhighscore">New high score! </string>
+     <string name="highscore">High score: </string>
+     <string name="score">Score: </string>
+     <string name="distunit">ft</string>
+     
+
+     
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.NoBackground" parent="android:Theme">
+        <!--<item name="android:windowBackground">@null</item> -->
+    </style>
+    <style name="CustomTheme" parent="android:Theme.NoTitleBar.Fullscreen">
+    <item name="android:windowBackground">@drawable/loadscreen</item>
+    
+    </style>
+</resources>
